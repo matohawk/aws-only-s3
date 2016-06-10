@@ -3,6 +3,7 @@
   "authors": [
     "candaras <mark.candaras@gmail.com>"
   ],
+  "version": "2.3.19",
   "description": "aws js sdk -- only s3",
   "main": "aws-only-s3.js",
   "keywords": [
