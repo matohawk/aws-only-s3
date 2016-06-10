@@ -1,0 +1,24 @@
+{
+  "name": "aws-only-s3",
+  "authors": [
+    "candaras <mark.candaras@gmail.com>"
+  ],
+  "description": "aws js sdk -- only s3",
+  "main": "aws-sdk-2.3.19",
+  "keywords": [
+    "aws",
+    "s3",
+    "js",
+    "sdk",
+    "browser"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
