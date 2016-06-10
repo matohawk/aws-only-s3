@@ -4,7 +4,7 @@
     "candaras <mark.candaras@gmail.com>"
   ],
   "description": "aws js sdk -- only s3",
-  "main": "aws-sdk-2.3.19",
+  "main": "aws-only-s3.js",
   "keywords": [
     "aws",
     "s3",
