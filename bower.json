@@ -1,9 +1,9 @@
 {
   "name": "aws-only-s3",
   "authors": [
-    "candaras <mark.candaras@gmail.com>"
+    "Matohawk <matohawk@gmail.com>"
   ],
-  "version": "2.3.19",
+  "version": "2.7.9",
   "description": "aws js sdk -- only s3",
   "main": "aws-only-s3.js",
   "keywords": [
